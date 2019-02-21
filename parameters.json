@@ -47,7 +47,7 @@
             "value": "VM-01"
         },
         "virtualMachineRG": {
-            "value": "rg-Nathan"
+            "value": "rg-NathanMock002"
         },
         "osDiskType": {
             "value": "StandardSSD_LRS"
