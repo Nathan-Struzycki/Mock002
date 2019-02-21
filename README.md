@@ -7,7 +7,7 @@
 </a>
 
 
-This template creates a new VM with two NICs which connect to two different subnets within the same VNet.
+This template creates a new VM with within Azure.
 
 ## Tips
 1. If running under PowerShell you may update the **azuredeploy.parameters** file with the **allowedValues** for the subnet name of the Primary NIC and Secondary NIC for a nice dropdown list.
