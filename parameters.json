@@ -6,10 +6,10 @@
             "value": "southeastasia"
         },
         "networkInterfaceName": {
-            "value": "vm-01234"
+            "value": "vm-Mock01234"
         },
         "networkSecurityGroupName": {
-            "value": "VM-01-nsg"
+            "value": "VM-Mock01-nsg"
         },
         "networkSecurityGroupRules": {
             "value": [
@@ -32,10 +32,10 @@
             "value": "Default"
         },
         "virtualNetworkId": {
-            "value": "/subscriptions/db8b1bb7-8c02-43de-862f-3585ddb5bb80/resourceGroups/rg-Nathan/providers/Microsoft.Network/virtualNetworks/rg-Nathan-vnet"
+            "value": "/subscriptions/db8b1bb7-8c02-43de-862f-3585ddb5bb80/resourceGroups/rg-NathanMock002/providers/Microsoft.Network/virtualNetworks/rg-Nathan-vnet"
         },
         "publicIpAddressName": {
-            "value": "VM-01-ip"
+            "value": "VM-Mock01-ip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
@@ -44,7 +44,7 @@
             "value": "Basic"
         },
         "virtualMachineName": {
-            "value": "VM-01"
+            "value": "VM-Mock01"
         },
         "virtualMachineRG": {
             "value": "rg-NathanMock002"
