@@ -32,7 +32,7 @@
             "value": "Default"
         },
         "virtualNetworkId": {
-            "value": "/subscriptions/db8b1bb7-8c02-43de-862f-3585ddb5bb80/resourceGroups/rg-NathanMock002/providers/Microsoft.Network/virtualNetworks/rg-Nathan-vnet"
+            "value": "/subscriptions/73bc1dfd-8859-466c-84b2-b8cdc25a1235/resourceGroups/rg-NathanMock002/providers/Microsoft.Network/virtualNetworks/rg-Nathan-vnet"
         },
         "publicIpAddressName": {
             "value": "VM-Mock01-ip"
