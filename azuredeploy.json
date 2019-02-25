@@ -5,6 +5,9 @@
         "location": {
             "type": "string"
         },
+        "resourceGroupName": {
+            "type": "string"
+        },
         "networkInterfaceName": {
             "type": "string"
         },
