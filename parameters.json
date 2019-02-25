@@ -5,6 +5,9 @@
         "location": {
             "value": "southeastasia"
         },
+         "resourceGroupName": {
+            "value": "rg-NathanMock002"
+        },
         "networkInterfaceName": {
             "value": "vm-Mock01234"
         },
