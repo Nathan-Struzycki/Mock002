@@ -5,6 +5,9 @@
         "name": {
             "value": "rg-Nathan-vnet"
         },
+        "location": {
+            "value": "southeastasia"
+        },
         "resourceGroup": {
             "value": "rg-NathanMock002"
         },
@@ -19,9 +22,6 @@
         },
         "enableDdosProtection": {
             "value": false
-        }
-        "location": {
-            "value": "southeastasia"
         },
         "networkInterfaceName": {
             "value": "vm-Mock01234"
