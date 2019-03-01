@@ -125,7 +125,9 @@
                     "Properties": []
                 }
             },
-            "tags": "[variables('ResourceGroupTags')]"
+            "tags": {
+                "Department": "ITDept"
+            }
         },
         {
             "name": "[parameters('networkSecurityGroupName')]",
